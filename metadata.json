@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PhishingDetectorAI",
+  "description": "A dual-purpose application: A real-time AI-powered Phishing URL scanner using Gemini 2.5 Flash, and an educational hub containing a complete Python Machine Learning project for phishing detection.",
+  "requestFramePermissions": []
+}
